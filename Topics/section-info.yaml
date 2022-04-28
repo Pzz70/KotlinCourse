@@ -1,0 +1,37 @@
+content:
+- Overview of the basic program
+- Values and variables
+- Data types
+- Boolean and logical operations
+- Standard input
+- Type conversion
+- Reading data with a readln
+- String templates
+- Integers in action
+- If expression
+- Repeating blocks
+- Equality
+- Characters
+- Ranges
+- For loop and ranges
+- For loop and lists
+- Working with strings
+- Getting substrings
+- Processing strings
+- Default arguments
+- Named arguments
+- Constructors
+- Jumps and returns
+- Errors in programs
+- What is an exception
+- Hierarchy of exceptions
+- Nullable and non-nullable types
+- Null safety
+- The try-catch statement
+- Type system
+- The try-catch-finally statement
+- Member functions
+- Scopes
+- Inheritance
+- toString()
+- Data class
